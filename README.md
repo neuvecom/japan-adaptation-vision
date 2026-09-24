@@ -79,6 +79,8 @@
 3. 議論に参加する
 - 既存のIssueやDiscussionsでの意見交換。
 
-## 📜 ライセンス
-本リポジトリで公開される文書および概念モデルは [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.ja?utm_source=gemini) のもとで提供されます。
-営利・非営利を問わず、自由に参照、改変、政策提言、事業化にご利用いただけます。
+## 📜 ライセンスについて
+
+本リポジトリに投稿された貢献（ドキュメント、コード、提案等）は、すべて本プロジェクトのライセンスである **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)** のもとで公開・二次利用されることに同意したものとみなされます。
+
+あなたの知識や視点が、未来の日本の都市と命を守るインフラの基盤になります。皆さまのご参加を心よりお待ちしております！
